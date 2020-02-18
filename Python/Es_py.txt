@@ -1,0 +1,1 @@
+In these folders will be the python exercise.
